@@ -2,6 +2,8 @@
 
 # Love-Maths Walkthrough Project
 
+![Love Math Homepage](https://github.com/IkennaEgwim/Love-Math/)
+
 ### Overview
 The Love-Maths Walkthrough Project is a simple yet engaging math game designed to help users practice basic arithmetic skills. The project utilizes HTML, CSS, and JavaScript to create an interactive and fun learning experience. The game generates random math questions, checks user answers, and keeps track of scores.
 
